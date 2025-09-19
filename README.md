@@ -1,11 +1,11 @@
 # Projeto Gato Félix - Disciplina Informática e Negócios #
 Aula do Professor PhD. Bruno Zolotareff dos Santos <br>
-Fatec Mauá - Informática para Negócios
+Fatec Mauá - Informática para Negócios <br>
 Link web: 
 
 ## Grupo
-João Victor dos Santos Ferreira
-Jordani Nascimento Andrade
-Lucas Santos Monteiro
-Matheus Peres do Nascimento
-Rui Santiago Faria
+João Victor dos Santos Ferreira <br>
+Jordani Nascimento Andrade <br>
+Lucas Santos Monteiro <br>
+Matheus Peres do Nascimento <br>
+Rui Santiago Faria <br>
