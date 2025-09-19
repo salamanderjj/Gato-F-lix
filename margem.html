@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        .container {
+            background-color: grey;
+            margin-top: 100px;
+            display: flex;
+            flex-direction: row;
+            padding-left: 570px;
+        }
+        
+body{
+    background-color: grey;
+}
+
+
+        .tamanho {
+           padding-top: 50px;
+            width: 180px;
+            height: 150px;
+            border-radius: 15px;
+        }
+        .forms{
+            background-color: red;
+            display: flex;
+            flex-direction: column;
+
+            margin-left: 10px;
+            margin-right: 1100px;
+            border: 5px solid red;
+            padding-left: 5px;
+            padding-right: 5px;
+            padding-bottom: 20px;
+            gap: 5px;
+
+        }
+        .caixa{
+            font-size: 16px;
+            font-family: 'Times New Roman'; ;
+            color: blue;
+            font-weight: bold;
+        }
+        .btn1{
+            font-size: 16px;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+        .btn1:hover {
+            background-color: rgb(0, 136, 255);
+            color: rgb(0, 0, 0);
+        }
+        .btn2 {
+            font-size: 16px;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+        .btn2:hover {
+            background-color: rgb(3, 137, 255);
+            color: rgb(0, 0, 0);
+        }
+
+    </style>
+
+<div class="container">
+    <img src="img/felixthecat.png" alt="gato" class="tamanho"> 
+
+
+<div class= "forms">
+<h1>Cadastro do Clube Félix</h1>
+<input type="text" id="nome" placeholder="Coloque seu nome" class="caixa">
+    <input type="text" id="mail" placeholder="Seu e-mail" class="caixa">
+    <input type="text" id="fone" placeholder="Seu telefone" class="caixa">
+
+    <button type="button" id="cadastrar" class="btn1">Cadastrar</button>
+    <button type="button" id="enviar" class="btn2">Enviar</button>
+</div>
+
+</div>
+    
+</body>
+</html>
