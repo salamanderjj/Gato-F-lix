@@ -1,7 +1,7 @@
 # Projeto Gato Félix - Disciplina Informática e Negócios #
 Aula do Professor PhD. Bruno Zolotareff dos Santos <br>
 Fatec Mauá - Informática para Negócios <br>
-Link web: 
+Link web: https://salamanderjj.github.io/felixinfo/
 
 ## Grupo
 João Victor dos Santos Ferreira <br>
